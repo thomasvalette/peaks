@@ -1,0 +1,7 @@
+psycopg2
+flask
+flask_sqlalchemy
+flask_marshmallow
+marshmallow-sqlalchemy
+flasgger
+waitress
