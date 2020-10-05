@@ -7,7 +7,14 @@ A simple webservice for storing and retrieving moutain peaks.
 
 **You will need git, docker & docker-compose for this to work.**
 
-First clone the reposiory to your machine :
+
+
+**Note :** If you are on windows execute this config command before cloning the repository, it prevents windows from converting \n in \r\n which breaks bash scripts.
+
+```
+git config --global core.autocrlf false
+```
+First clone the repository to your machine :
 ```
 git clone https://github.com/thomasvalette/peaks
 ```
